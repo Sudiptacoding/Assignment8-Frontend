@@ -1,23 +1,12 @@
 ### Rainier Technologies
 
-#### Live link : https://rainier-technologies.web.app/
-
-##### Admin Email : rainiertechnologies@gmail.com
-##### Admin Password : admin123
+#### Live link : https://assifnment8.web.app/
 
 ###### Features
-- Admin can add new courses, delete them and update them if they want.
-- Users can see the details of each activity and add it to their wish list.
+- User can add new To-do, delete them and update them if they want.
+- Log in users can add To-do , And visite all routs.
 
-###### APIs
-- https://rainiertechnologies.vercel.app/ (Main)
-- https://rainiertechnologies.vercel.app/api/course (All course)
-- ##### Post
-- https://rainiertechnologies.vercel.app/api/course (Post Mathod)
-- ###### Delete
-- https://rainiertechnologies.vercel.app/api/course (Delete Mathod)
-- ###### put
-- https://rainiertechnologies.vercel.app/api/course (PUT Mathod)
+
 ###### Use Technology
 - HTML
 - CSS
